@@ -17,7 +17,6 @@
   <li>"SenderPassword": "mã_của_bạn"</li>
 </ul>
 <h2>Chạy CSDL để có quyền admin</h2>
-<p>chạy file data.bacpac để có dữ liệu trong SQL của bạn nên tạo vào đặc tên CSDL trong SQL giống với "Tên CSDL của bạn" mà bạn thay đổi thông tin ở mục Database</p>
-<ul>
-  <li href = https://www.youtube.com/watch?v=COCMQvVKjss>Video hướng dẫn ở đây</li>
-</ul>
+<p>chạy file data.bacpac để có dữ liệu trong SQL của bạn nên tạo vào đặc tên CSDL trong SQL giống với "Tên CSDL của bạn" mà bạn thay đổi thông tin ở mục Database video hướng dẫn bên dưới</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COCMQvVKjss?si=f_EiiV65q5oBLXV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
