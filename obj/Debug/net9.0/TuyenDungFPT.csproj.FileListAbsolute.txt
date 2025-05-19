@@ -1,0 +1,854 @@
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\appsettings.Development.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\appsettings.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\libman.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.staticwebassets.runtime.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.staticwebassets.endpoints.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.exe
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.deps.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.runtimeconfig.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.pdb
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Azure.Core.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Azure.Identity.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Humanizer.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.JSInterop.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Common.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\SlugGenerator.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.ClientModel.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.CodeDom.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Linq.Dynamic.Core.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Text.Json.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.csproj.AssemblyReference.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.AssemblyInfoInputs.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.AssemblyInfo.cs
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.csproj.CoreCompileInputs.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.MvcApplicationPartsAssemblyInfo.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.RazorAssemblyInfo.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.RazorAssemblyInfo.cs
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Areas\Recruiter\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\bundle\TuyenDungFPT.styles.css
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungFPT.bundle.scp.css
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\unlu0xluo6-eu7w3d5g1a.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kabz4tjvj7-ttdtcbl7as.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yvilxkv0yw-c2tiyv64ts.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\b2t2bqfymj-qrmsv09emj.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\zg1zvc6uqr-aml3ydifq3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\juewt2b16m-fqri1njz4n.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\sskc1019er-61n19gt1b8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pzch0g5nuo-uv5vnplbc7.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\g192ml32k3-xtxxf3hu2r.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ixxvshk19f-j4e9crw281.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3q07yyfyvv-clrufng2zb.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9ghx8d64ht-pfslj4f41e.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tgpm7nmwjy-591ybqkhud.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\nv22ncqj1r-bqjiyaj88i.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3wz99r74jy-c2jlpeoesf.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ggnz2f129o-erw9l3u2r3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\konp5pmlby-aexeepp0ev.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\0vaums0nvp-d7shbmvgxk.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\labxf81nqd-ausgxo2sd3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qysxedy00d-k8d9w2qqmf.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pscav3nmn1-cosvhxvwiu.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8jd4b8doav-ub07r2b239.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\dbx07lxtud-fvhpjtyr6v.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kbxvmez52z-b7pk76d08c.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pffiix5b7n-fsbi9cje9m.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\al4gzpgife-rzd6atqjts.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8qzz0izdi3-ee0r1s7dh0.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\a93r6g1gd0-dxx9fxp4il.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\igujplxzg0-jd9uben2k1.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c5lz82k7wz-khv3u5hwcm.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9c84aov61c-r4e9w2rdcm.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\okgf7qp8xl-lcd1t2u6c8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kj413bbk9n-c2oey78nd0.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\x7ghdg9wfo-tdbxkamptv.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2vqp8zq6wt-j5mq2jizvt.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c4qpndjy9g-06098lyss8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\78we58qi8s-nvvlpmu67g.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4m1bjkg2um-s35ty4nyc5.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vskoeg2fn6-pj5nd1wqec.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ypjc6c16sv-46ein0sx1k.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\jv5sp1tqft-v0zj4ognzu.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\uxpjivyapq-37tfw0ft22.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\7ex352ef1y-hrwsygsryq.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\56gxghmg2i-pk9g2wxc8p.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\dcff90g9p2-ft3s53vfgj.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ysvsiz9y8d-bqjiyaj88i.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xg1bcykm12-c2jlpeoesf.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8rkzs9wk2j-erw9l3u2r3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\svxdlxkz25-aexeepp0ev.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9ba9tfik1j-d7shbmvgxk.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\t5mc65cbok-ausgxo2sd3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\jqvsga3agn-k8d9w2qqmf.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gz33l9ugk-cosvhxvwiu.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ll630w22m7-ub07r2b239.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xbnrgc70c8-fvhpjtyr6v.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4il5coi2gp-b7pk76d08c.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\osl4u2eooe-fsbi9cje9m.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\k3ozs8ik53-rzd6atqjts.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\el9zmojz18-ee0r1s7dh0.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ovcbd4b52z-dxx9fxp4il.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\32fl1fm83l-jd9uben2k1.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\d5fnqm638p-khv3u5hwcm.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\44sglcv39b-r4e9w2rdcm.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\nw56xsicop-lcd1t2u6c8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8on6squbrh-c2oey78nd0.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\lf5fsi3eb8-tdbxkamptv.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c20b5lbo6m-j5mq2jizvt.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5fodbxbf5a-06098lyss8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ekmlhi6emq-nvvlpmu67g.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\7mhrmnog2e-s35ty4nyc5.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\cy7vguphe3-pj5nd1wqec.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\035132zjec-46ein0sx1k.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\v7vvqxj2lx-v0zj4ognzu.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vk7anqewzu-37tfw0ft22.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tugrgkgj7s-hrwsygsryq.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ka2hyp6t90-pk9g2wxc8p.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tz8n73olte-ft3s53vfgj.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\st51xbjddb-6cfz1n2cew.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tvr7kkjq57-6pdc2jztkx.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gtsaihtoh5-493y06b0oq.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\cvkk308zce-iovd86k7lj.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\a830ny7xl8-vr1egmr9el.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4c3f8o7w2g-kbrnm935zg.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\osf9d8xc5q-jj8uyg4cgr.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2vrf0pr5wf-y7v9cxd14o.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5y3hcvl6j6-notf2xhcfb.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yxaerzk28a-h1s4sie4z3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9k7aoxgd3p-63fj8s7r0e.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gzg28k0ccd-0j3bgjxly4.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gkixwcooz7-6cfz1n2cew.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\l2myx0cvrn-6pdc2jztkx.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\o652r516x9-493y06b0oq.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\m6ei1s1gsi-iovd86k7lj.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\wyvwpntis8-vr1egmr9el.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\aphjqvh8bb-kbrnm935zg.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\g1ud8x3q4l-jj8uyg4cgr.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\wx5ka5d8w9-y7v9cxd14o.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9a11t48bpn-notf2xhcfb.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5xmlk8sdyp-h1s4sie4z3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\d5chy495yi-63fj8s7r0e.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\fkxftuw25j-0j3bgjxly4.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xml12k4f3w-lqqd7xhxz9.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9klgxivrmg-gjng231tw8.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\eyu6nam6gb-wa2ntzbco9.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9wnrcex8fg-4cpzj38bla.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\f3a5y4n28u-s1z0o21rrk.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yhkwwags9m-njqueg59x9.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pc5x70udfl-47otxtyo56.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5njw2s2yem-4v8eqarkd7.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ewpxrr6n9w-356vix0kms.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\0uaats86ub-83jwlth58m.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pq59bvnju2-mrlpezrjn3.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\p6nte9orwv-lzl9nlhx6b.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\btw86ewvuo-ag7o75518u.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\if7l298wj2-x0q3zqp4vz.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\28vzovacpd-0i3buxo5is.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\y95uaswl88-o1o13a6vjx.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\usabj1vjky-ttgo8qnofa.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\iteiwsrorw-2z0ns9nrw6.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\rxkudeh6u8-muycvpuwrr.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gj24qfqa0-87fc7y1x7t.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pzixzsv4pi-mlv21k5csn.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tqirwdwa4h-fynx4m6ffa.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c595hfhbji-j3wy3vomxf.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\6gb1akpycu-3sqe7mmf4b.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\fk12t1d3fa-bvb3mcnxs0.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\w5fg0p4p9y-rstaz3qrjg.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\v40ln3o0ad-1ktijcimzc.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qfygp3s29f-8vqiqdzfsy.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qzqljhufca-xre24ck5s9.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\du9qmfbwp0-uydiqv09h2.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2ghqe92tng-apjpr24drr.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vbjpziexma-v5kyrhpytd.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\mkydg6sdzq-cv5uvnk9aq.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\sea391fhby-3c3uybzega.gz
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.build.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.development.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.build.TuyenDungFPT.props
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TuyenDungFPT.props
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TuyenDungFPT.props
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDun.61503602.Up2Date
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\refint\TuyenDungFPT.dll
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.pdb
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.genruntimeconfig.cache
+D:\Tai lieu hoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\ref\TuyenDungFPT.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\appsettings.Development.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\appsettings.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\libman.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.staticwebassets.endpoints.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.staticwebassets.runtime.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.exe
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.deps.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.runtimeconfig.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\TuyenDungFPT.pdb
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Azure.Core.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Azure.Identity.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Humanizer.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.JSInterop.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Common.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\SlugGenerator.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.ClientModel.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.CodeDom.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Linq.Dynamic.Core.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\System.Text.Json.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.csproj.AssemblyReference.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.AssemblyInfoInputs.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.AssemblyInfo.cs
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.csproj.CoreCompileInputs.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.MvcApplicationPartsAssemblyInfo.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.RazorAssemblyInfo.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.RazorAssemblyInfo.cs
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Areas\Recruiter\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\bundle\TuyenDungFPT.styles.css
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\scopedcss\projectbundle\TuyenDungFPT.bundle.scp.css
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\unlu0xluo6-eu7w3d5g1a.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kabz4tjvj7-ttdtcbl7as.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yvilxkv0yw-c2tiyv64ts.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\b2t2bqfymj-qrmsv09emj.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\zg1zvc6uqr-aml3ydifq3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\juewt2b16m-fqri1njz4n.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\sskc1019er-61n19gt1b8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pzch0g5nuo-uv5vnplbc7.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\g192ml32k3-xtxxf3hu2r.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ixxvshk19f-j4e9crw281.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3q07yyfyvv-clrufng2zb.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9ghx8d64ht-pfslj4f41e.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tgpm7nmwjy-591ybqkhud.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\nv22ncqj1r-bqjiyaj88i.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3wz99r74jy-c2jlpeoesf.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ggnz2f129o-erw9l3u2r3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\konp5pmlby-aexeepp0ev.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\0vaums0nvp-d7shbmvgxk.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\labxf81nqd-ausgxo2sd3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qysxedy00d-k8d9w2qqmf.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pscav3nmn1-cosvhxvwiu.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8jd4b8doav-ub07r2b239.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\dbx07lxtud-fvhpjtyr6v.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kbxvmez52z-b7pk76d08c.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pffiix5b7n-fsbi9cje9m.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\al4gzpgife-rzd6atqjts.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8qzz0izdi3-ee0r1s7dh0.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\a93r6g1gd0-dxx9fxp4il.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\igujplxzg0-jd9uben2k1.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c5lz82k7wz-khv3u5hwcm.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9c84aov61c-r4e9w2rdcm.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\okgf7qp8xl-lcd1t2u6c8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\kj413bbk9n-c2oey78nd0.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\x7ghdg9wfo-tdbxkamptv.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2vqp8zq6wt-j5mq2jizvt.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c4qpndjy9g-06098lyss8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\78we58qi8s-nvvlpmu67g.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4m1bjkg2um-s35ty4nyc5.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vskoeg2fn6-pj5nd1wqec.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ypjc6c16sv-46ein0sx1k.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\jv5sp1tqft-v0zj4ognzu.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\uxpjivyapq-37tfw0ft22.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\7ex352ef1y-hrwsygsryq.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\56gxghmg2i-pk9g2wxc8p.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\dcff90g9p2-ft3s53vfgj.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ysvsiz9y8d-bqjiyaj88i.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xg1bcykm12-c2jlpeoesf.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8rkzs9wk2j-erw9l3u2r3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\svxdlxkz25-aexeepp0ev.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9ba9tfik1j-d7shbmvgxk.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\t5mc65cbok-ausgxo2sd3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\jqvsga3agn-k8d9w2qqmf.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gz33l9ugk-cosvhxvwiu.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ll630w22m7-ub07r2b239.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xbnrgc70c8-fvhpjtyr6v.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4il5coi2gp-b7pk76d08c.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\osl4u2eooe-fsbi9cje9m.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\k3ozs8ik53-rzd6atqjts.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\el9zmojz18-ee0r1s7dh0.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ovcbd4b52z-dxx9fxp4il.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\32fl1fm83l-jd9uben2k1.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\d5fnqm638p-khv3u5hwcm.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\44sglcv39b-r4e9w2rdcm.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\nw56xsicop-lcd1t2u6c8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\8on6squbrh-c2oey78nd0.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\lf5fsi3eb8-tdbxkamptv.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c20b5lbo6m-j5mq2jizvt.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5fodbxbf5a-06098lyss8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ekmlhi6emq-nvvlpmu67g.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\7mhrmnog2e-s35ty4nyc5.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\cy7vguphe3-pj5nd1wqec.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\035132zjec-46ein0sx1k.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\v7vvqxj2lx-v0zj4ognzu.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vk7anqewzu-37tfw0ft22.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tugrgkgj7s-hrwsygsryq.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ka2hyp6t90-pk9g2wxc8p.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tz8n73olte-ft3s53vfgj.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\st51xbjddb-6cfz1n2cew.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tvr7kkjq57-6pdc2jztkx.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gtsaihtoh5-493y06b0oq.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\cvkk308zce-iovd86k7lj.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\a830ny7xl8-vr1egmr9el.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\4c3f8o7w2g-kbrnm935zg.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\osf9d8xc5q-jj8uyg4cgr.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2vrf0pr5wf-y7v9cxd14o.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5y3hcvl6j6-notf2xhcfb.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yxaerzk28a-h1s4sie4z3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9k7aoxgd3p-63fj8s7r0e.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gzg28k0ccd-0j3bgjxly4.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\gkixwcooz7-6cfz1n2cew.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\l2myx0cvrn-6pdc2jztkx.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\o652r516x9-493y06b0oq.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\m6ei1s1gsi-iovd86k7lj.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\wyvwpntis8-vr1egmr9el.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\aphjqvh8bb-kbrnm935zg.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\g1ud8x3q4l-jj8uyg4cgr.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\wx5ka5d8w9-y7v9cxd14o.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9a11t48bpn-notf2xhcfb.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5xmlk8sdyp-h1s4sie4z3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\d5chy495yi-63fj8s7r0e.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\fkxftuw25j-0j3bgjxly4.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\xml12k4f3w-lqqd7xhxz9.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9klgxivrmg-gjng231tw8.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\eyu6nam6gb-wa2ntzbco9.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\9wnrcex8fg-4cpzj38bla.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\f3a5y4n28u-s1z0o21rrk.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\yhkwwags9m-njqueg59x9.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pc5x70udfl-47otxtyo56.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\5njw2s2yem-4v8eqarkd7.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\ewpxrr6n9w-356vix0kms.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\0uaats86ub-83jwlth58m.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pq59bvnju2-mrlpezrjn3.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\p6nte9orwv-lzl9nlhx6b.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\btw86ewvuo-ag7o75518u.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\if7l298wj2-x0q3zqp4vz.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\28vzovacpd-0i3buxo5is.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\y95uaswl88-o1o13a6vjx.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\usabj1vjky-ttgo8qnofa.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\iteiwsrorw-2z0ns9nrw6.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\rxkudeh6u8-muycvpuwrr.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gj24qfqa0-87fc7y1x7t.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\pzixzsv4pi-mlv21k5csn.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\tqirwdwa4h-fynx4m6ffa.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\c595hfhbji-j3wy3vomxf.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\6gb1akpycu-3sqe7mmf4b.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\fk12t1d3fa-bvb3mcnxs0.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\w5fg0p4p9y-rstaz3qrjg.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\v40ln3o0ad-1ktijcimzc.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qfygp3s29f-8vqiqdzfsy.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\qzqljhufca-xre24ck5s9.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\du9qmfbwp0-uydiqv09h2.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\2ghqe92tng-apjpr24drr.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\vbjpziexma-v5kyrhpytd.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\mkydg6sdzq-cv5uvnk9aq.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\compressed\sea391fhby-3c3uybzega.gz
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.build.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.development.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.build.TuyenDungFPT.props
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TuyenDungFPT.props
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TuyenDungFPT.props
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDun.61503602.Up2Date
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\refint\TuyenDungFPT.dll
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.pdb
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\TuyenDungFPT.genruntimeconfig.cache
+D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\obj\Debug\net9.0\ref\TuyenDungFPT.dll

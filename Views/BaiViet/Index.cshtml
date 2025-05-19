@@ -1,0 +1,98 @@
+﻿@model TuyenDungFPT.Models.PhanTrangBaiViet
+@using System.Text.RegularExpressions
+
+@{
+    ViewData["Title"] = "Tin tức";
+}
+
+<div class="bg-light py-4 border-bottom mb-4">
+    <div class="container d-flex flex-column flex-lg-row justify-content-between align-items-center">
+        <h1 class="h3 mb-2 mb-lg-0 text-primary fw-bold">Tin tức</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item active" aria-current="page">Tin tức</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="container pb-5">
+    <div class="row g-4">
+        @foreach (var item in Model.BaiViet)
+        {
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <a asp-controller="BaiViet" asp-action="ChiTiet" asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau" asp-route-tieuDe="@item.TieuDeKhongDau">
+                        @{
+                            string hinhAnh = Regex.Match(item.NoiDung, "<img.+?src=[\"'](.+?)[\"'].*?>", RegexOptions.IgnoreCase).Groups[1].Value.Replace("&amp;", "&");
+                            if (string.IsNullOrEmpty(hinhAnh)) hinhAnh = "/img/noimage.png";
+                        }
+                        <img class="card-img-top rounded-top" src="@hinhAnh" alt="@item.TieuDe" style="object-fit: cover; height: 200px;" />
+                    </a>
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">
+                            <a class="text-dark text-decoration-none" asp-controller="BaiViet" asp-action="ChiTiet"
+                               asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau"
+                               asp-route-tieuDe="@item.TieuDeKhongDau">@item.TieuDe</a>
+                        </h5>
+                        <p class="card-text text-muted small" style="text-align: justify;">@item.TomTat</p>
+                        <div class="mt-auto">
+                            <a class="badge bg-info text-dark text-decoration-none" asp-controller="BaiViet" asp-action="ChuDe"
+                               asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau">@item.ChuDe.TenChuDe</a>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-white d-flex justify-content-between align-items-center small text-muted">
+                        <div><i class="bi bi-person-fill"></i> @item.User.FullName</div>
+                        <div>
+                            <i class="bi bi-calendar3"></i> @item.NgayDang.ToString("dd/MM/yyyy")
+                            <span class="mx-2">|</span>
+                            <i class="bi bi-eye-fill"></i> @item.LuotXem
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <hr class="my-4" />
+
+    <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+            @if (Model.HasPreviousPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-controller="BaiViet" asp-action="Index" asp-route-trang="@(Model.TrangHienTai - 1)">«</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled"><span class="page-link">«</span></li>
+            }
+
+            @for (int page = 1; page <= Model.TongSoTrang; page++)
+            {
+                if (page == Model.TrangHienTai)
+                {
+                    <li class="page-item active" aria-current="page"><span class="page-link">@(page)</span></li>
+                }
+                else
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="BaiViet" asp-action="Index" asp-route-trang="@(page)">@(page)</a>
+                    </li>
+                }
+            }
+
+            @if (Model.HasNextPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-controller="BaiViet" asp-action="Index" asp-route-trang="@(Model.TrangHienTai + 1)">»</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled"><span class="page-link">»</span></li>
+            }
+        </ul>
+    </nav>
+</div>

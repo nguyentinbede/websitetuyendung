@@ -1,0 +1,72 @@
+﻿@model TuyenDungFPT.Models.BaiViet
+
+@{
+    ViewData["Title"] = "Thêm bài viết";
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="ChuDeId" class="control-label"></label>
+                <select asp-for="ChuDeId" class="form-control" asp-items="ViewBag.ChuDeID">
+                    <option value="">-- Chọn --</option>
+                </select>
+                <span asp-validation-for="ChuDeId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TieuDe" class="control-label"></label>
+                <input asp-for="TieuDe" class="form-control" />
+                <span asp-validation-for="TieuDe" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TieuDeKhongDau" class="control-label"></label>
+                <input asp-for="TieuDeKhongDau" class="form-control" placeholder="Bỏ trống sẽ tự động xử lý tên không dấu" />
+                <span asp-validation-for="TieuDeKhongDau" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TomTat" class="control-label"></label>
+                <textarea asp-for="TomTat" class="form-control"></textarea>
+                <span asp-validation-for="TomTat" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NoiDung" class="control-label"></label>
+                <textarea asp-for="NoiDung" class="form-control"></textarea>
+                <span asp-validation-for="NoiDung" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="HienThi" /> @Html.DisplayNameFor(model => model.HienThi)
+                </label>
+            </div>
+
+            <div class="mb-0">
+                <button type="submit" class="btn btn-primary"><i class="fa-light fa-floppy-disk"></i> Thêm mới</button> hoặc <a asp-action="Index">Quay về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/lib/ckeditor5/ckeditor.js"></script>
+    <script>
+        ClassicEditor.create(document.querySelector('#NoiDung'), {
+        licenseKey: '',
+        }).then(editor => {
+        window.editor = editor;
+        }).catch(error => {
+        console.error(error);
+        });
+    </script>
+}
+
+

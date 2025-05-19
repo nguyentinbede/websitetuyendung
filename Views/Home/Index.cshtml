@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+        @TempData["Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@model TuyenDungFPT.Models.ViewModels.HomeViewModel
+<div class="container-fluid p-0">
+    <div class="owl-carousel header-carousel position-relative">
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/bia.png" alt="">
+        </div>
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/fpt-tuyen-dung.jpeg" alt="">
+        </div>
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/thumb_20220811020620.jpg" alt="">
+        </div>
+    </div>
+</div>
+<!-- Carousel End -->
+<!-- Search Start -->
+<form asp-controller="Jobs" asp-action="Search" method="get" class="p-4 bg-light rounded shadow-sm">
+    <div class="row g-3 align-items-center">
+        <!-- Từ khóa -->
+        <div class="col-md-4">
+            <label for="keyword" class="form-label fw-semibold">Từ khóa</label>
+            <input type="text" name="keyword" id="keyword" class="form-control" placeholder="Nhập từ khóa..." />
+        </div>
+
+        <!-- Danh mục -->
+        <div class="col-md-4">
+            <label for="categoryId" class="form-label fw-semibold">Danh mục</label>
+            <select name="categoryId" id="categoryId" class="form-select">
+                <option value="">-- Chọn danh mục --</option>
+                @foreach (var category in Model.Categories)
+                {
+                    <option value="@category.Id">@category.Name</option>
+                }
+            </select>
+        </div>
+
+        <!-- Địa điểm -->
+        <div class="col-md-4">
+            <label for="location" class="form-label fw-semibold">Địa điểm</label>
+            <select name="location" id="location" class="form-select">
+                <option value="">-- Chọn địa điểm --</option>
+                @{
+                    var locations = new List<string> {
+                "An Giang", "Bà Rịa - Vũng Tàu", "Bắc Giang", "Bắc Kạn", "Bạc Liêu", "Bắc Ninh", "Bến Tre",
+                "Bình Định", "Bình Dương", "Bình Phước", "Bình Thuận", "Cà Mau", "Cần Thơ", "Cao Bằng",
+                "Đà Nẵng", "Đắk Lắk", "Đắk Nông", "Điện Biên", "Đồng Nai", "Đồng Tháp", "Gia Lai",
+                "Hà Giang", "Hà Nam", "Hà Nội", "Hà Tĩnh", "Hải Dương", "Hải Phòng", "Hậu Giang",
+                "Hòa Bình", "Hưng Yên", "Khánh Hòa", "Kiên Giang", "Kon Tum", "Lai Châu", "Lâm Đồng",
+                "Lạng Sơn", "Lào Cai", "Long An", "Nam Định", "Nghệ An", "Ninh Bình", "Ninh Thuận",
+                "Phú Thọ", "Phú Yên", "Quảng Bình", "Quảng Nam", "Quảng Ngãi", "Quảng Ninh", "Quảng Trị",
+                "Sóc Trăng", "Sơn La", "Tây Ninh", "Thái Bình", "Thái Nguyên", "Thanh Hóa",
+                "Thừa Thiên Huế", "Tiền Giang", "TP Hồ Chí Minh", "Trà Vinh", "Tuyên Quang",
+                "Vĩnh Long", "Vĩnh Phúc", "Yên Bái"
+                };
+                    foreach (var location in locations)
+                    {
+                        <option value="@location">@location</option>
+                    }
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="mt-4 text-end">
+        <button type="submit" class="btn btn-primary w-100">
+            <i class="bi bi-search me-2"></i>Tìm kiếm
+        </button>
+    </div>
+</form>
+
+<!-- Search End -->
+<!-- Category Start -->
+<!-- Category End -->
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="row g-0 about-bg rounded overflow-hidden">
+                    <div class="col-6 text-start">
+                        <img class="img-fluid w-100" src="img/about-1.jpg">
+                    </div>
+                    <div class="col-6 text-start">
+                        <img class="img-fluid" src="img/about-2.jpg" style="width: 85%; margin-top: 15%;">
+                    </div>
+                    <div class="col-6 text-end">
+                        <img class="img-fluid" src="img/about-3.jpg" style="width: 85%;">
+                    </div>
+                    <div class="col-6 text-end">
+                        <img class="img-fluid w-100" src="img/about-4.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <h1 class="mb-4">Chúng tôi sẽ giúp cho bạn tìm được công việc bạn mong muốn nhanh nhất</h1>
+                <p class="mb-4">Website được phát triển để cung cấp nguồn nhân lực cho tập đoàn FPT</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Đơn giản</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Nhanh chống</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Minh bạch</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+<!-- Jobs Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <h1 class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">Job Listing</h1>
+        @await Html.PartialAsync("~/Views/Jobs/JobType.cshtml", Model.Jobs)
+    </div>
+</div>
+<!-- Jobs End -->
+

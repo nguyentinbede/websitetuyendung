@@ -1,0 +1,42 @@
+﻿@model IEnumerable<TuyenDungFPT.Models.ChuDe>
+
+@{
+    ViewData["Title"] = "Chủ đề";
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <p><a asp-action="Create" class="btn btn-success"><i class="fa-light fa-plus"></i> Thêm mới</a></p>
+        <table class="table table-sm table-hover table-striped table-bordered mb-0">
+            <thead>
+                <tr>
+                    <th width="5%">#</th>
+                    <th>@Html.DisplayNameFor(model => model.TenChuDe)</th>
+                    <th width="40%">@Html.DisplayNameFor(model => model.TenChuDeKhongDau)</th>
+                    <th width="5%">Sửa</th>
+                    <th width="5%">Xóa</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var stt = 1;
+                }
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@stt</td>
+                        <td>@Html.DisplayFor(modelItem => item.TenChuDe)</td>
+                        <td>@Html.DisplayFor(modelItem => item.TenChuDeKhongDau)</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-light fa-pen-to-square"></i></a>
+                        </td>
+                        <td class="text-center">
+                            <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-light fa-trash-can text-danger"></i></a>
+                        </td>
+                    </tr>
+                    stt++;
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

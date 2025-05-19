@@ -1,0 +1,78 @@
+﻿@model TuyenDungFPT.Models.BaiViet
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BaiViet</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TieuDe)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TieuDe)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TieuDeKhongDau)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TieuDeKhongDau)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TomTat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TomTat)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NoiDung)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NoiDung)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NgayDang)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgayDang)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LuotXem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LuotXem)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KiemDuyet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KiemDuyet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HienThi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HienThi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ChuDe)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ChuDe.TenChuDe)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User.Email)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

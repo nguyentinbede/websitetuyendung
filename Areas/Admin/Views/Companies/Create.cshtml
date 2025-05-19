@@ -1,0 +1,68 @@
+﻿@model TuyenDungFPT.Models.Company
+
+@{
+    ViewData["Title"] = "Thêm công ty";
+}
+
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name_khongdau" class="control-label"></label>
+                <input asp-for="Name_khongdau" class="form-control" />
+                <span asp-validation-for="Name_khongdau" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="DataAvata" class="control-label"></label>
+                <input asp-for="DataAvata" accept="image/jpeg,image/gif,image/png" class="form-control" />
+                <span asp-validation-for="DataAvata" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Website" class="control-label"></label>
+                <input asp-for="Website" class="form-control" />
+                <span asp-validation-for="Website" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Industry" class="control-label"></label>
+                <input asp-for="Industry" class="form-control" />
+                <span asp-validation-for="Industry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-0">
+                <button type="submit" class="btn btn-primary"><i class="fa-light fa-floppy-disk"></i> Thêm mới</button> hoặc <a asp-action="Index">Quay về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/lib/ckeditor5/ckeditor.js"></script>
+    <script>
+        ClassicEditor.create(document.querySelector('#Description'), {
+        licenseKey: '',
+        }).then(editor => {
+        window.editor = editor;
+        }).catch(error => {
+        console.error(error);
+        });
+    </script>
+}

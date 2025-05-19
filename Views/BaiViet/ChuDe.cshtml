@@ -1,0 +1,110 @@
+﻿@model TuyenDungFPT.Models.PhanTrangBaiViet
+@using System.Text.RegularExpressions
+@{
+    string tenChuDeKhongDau = Model.BaiViet.First().ChuDe.TenChuDeKhongDau;
+    ViewData["Title"] = Model.BaiViet.First().ChuDe.TenChuDe;
+}
+<div class="bg-secondary py-4">
+    <div class="container d-lg-flex justify-content-between py-2 py-lg-3">
+        <div class="order-lg-2 mb-3 mb-lg-0 pt-lg-2">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb flex-lg-nowrap justify-content-center justify-content-lg-start">
+                    <li class="breadcrumb-item">
+                        <a class="text-nowrap" asp-area="" asp-controller="Home" asp-action="Index"><i class="ci-home"></i>Trang chủ</a>
+                    </li>
+                    <li class="breadcrumb-item text-nowrap">
+                        <a asp-area="" asp-controller="BaiViet" asp-action="Index">Tin tức</a>
+                    </li>
+                    <li class="breadcrumb-item text-nowrap active" aria-current="page">@ViewData["Title"]</li>
+                </ol>
+            </nav>
+        </div>
+        <div class="order-lg-1 pe-lg-4 text-center text-lg-start">
+            <h1 class="h3 mb-0">@ViewData["Title"]</h1>
+        </div>
+    </div>
+</div>
+<div class="container pb-5 mb-2 mb-md-4">
+    <div class="pt-3 mt-md-3">
+        <div class="masonry-grid" data-columns="3">
+            @foreach (var item in Model.BaiViet)
+            {
+                <article class="masonry-grid-item">
+                    <div class="card">
+                        <a class="blog-entry-thumb" asp-area="" asp-controller="BaiViet" asp-action="ChiTiet" asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau" asp-route-tieuDe="@item.TieuDeKhongDau">
+                            @{
+                                string hinhAnhDauTien = Regex.Match(item.NoiDung, "<img.+?src=[\"'](.+?)[\"'].*?>", RegexOptions.IgnoreCase).Groups[1].Value.Replace("&amp;", "&");
+                                if (string.IsNullOrEmpty(hinhAnhDauTien)) hinhAnhDauTien = "/img/noimage.png";
+                            }
+                            <img class="card-img-top" src="@hinhAnhDauTien" />
+                        </a>
+                        <div class="card-body">
+                            <h2 class="h6 blog-entry-title">
+                                <a asp-area="" asp-controller="BaiViet" asp-action="ChiTiet" asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau" asp-route-tieuDe="@item.TieuDeKhongDau">@item.TieuDe</a>
+                            </h2>
+                            <p class="fs-sm" style="text-align:justify">@item.TomTat</p>
+                            <a class="btn-tag me-2 mb-2" asp-area="" asp-controller="BaiViet" asp-action="ChuDe" asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau">@item.ChuDe.TenChuDe</a>
+                        </div>
+                        <div class="card-footer d-flex align-items-center fs-xs">
+                            <a class="blog-entry-meta-link" href="#author">
+                                <div class="blog-entry-author-ava"><img src="~/img/03.jpg" /></div>@item.User.FullName
+                            </a>
+                            <div class="ms-auto text-nowrap">
+                                <a class="blog-entry-meta-link text-nowrap" href="#date">@item.NgayDang</a>
+                                <span class="blog-entry-meta-divider mx-2"></span>
+                                <a class="blog-entry-meta-link text-nowrap" href="#views"><i class="ci-eye"></i>@item.LuotXem</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            }
+        </div>
+        <hr class="mb-4">
+
+        <nav class="d-flex justify-content-between pt-2" aria-label="Page navigation">
+            <ul class="pagination">
+                @if (Model.HasPreviousPage)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-area="" asp-controller="BaiViet" asp-action="ChuDe" asp-route-tenChuDe="@tenChuDeKhongDau" asp-route-trang="@(Model.TrangHienTai - 1)">
+                            <i class="ci-arrow-left me-2"></i>Prev
+                        </a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item"><a class="page-link" href="#"><i class="ci-arrow-left me-2"></i>Prev</a></li>
+                }
+            </ul>
+            <ul class="pagination">
+                @for (int pageIndex = 1; pageIndex <= Model.TongSoTrang; pageIndex++)
+                {
+                    if (pageIndex != Model.TrangHienTai)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-area="" asp-controller="BaiViet" asp-action="ChuDe" asp-route-tenChuDe="@tenChuDeKhongDau" asp-route-trang="@pageIndex">@pageIndex</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item active" aria-current="page"><span class="page-link">@pageIndex</span></li>
+                    }
+                }
+            </ul>
+            <ul class="pagination">
+                @if (Model.HasNextPage)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-area="" asp-controller="BaiViet" asp-action="ChuDe" asp-route-tenChuDe="@tenChuDeKhongDau" asp-route-trang="@(Model.TrangHienTai + 1)">
+                            Next<i class="ci-arrow-right ms-2"></i>
+                        </a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item"><a class="page-link" href="#">Next<i class="ci-arrow-right ms-2"></i></a></li>
+                }
+            </ul>
+        </nav>
+    </div>
+</div>

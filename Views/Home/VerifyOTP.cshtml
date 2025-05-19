@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Xác minh OTP";
+}
+
+<h2>Xác minh mã OTP</h2>
+
+<p>Chúng tôi đã gửi mã xác nhận đến email của bạn. Vui lòng nhập mã để hoàn tất đăng ký.</p>
+
+<form asp-action="VerifyOTP" method="post">
+    <div class="form-group">
+        <label>Mã OTP</label>
+        <input name="otpInput" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-2">Xác nhận</button>
+</form>

@@ -1,0 +1,88 @@
+﻿@model TuyenDungFPT.Models.BaiViet
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor _httpContextAccessor
+@using System.Text.RegularExpressions
+
+@{
+    ViewData["Title"] = Model.TieuDe;
+    var baiVietCungChuyenMuc = ViewData["BaiVietCungChuyenMuc"] as IEnumerable<TuyenDungFPT.Models.BaiViet>;
+    var user = _httpContextAccessor.HttpContext.User;
+}
+
+<!-- Thông tin bài viết -->
+<div class="container py-4">
+    <h1>@Model.TieuDe</h1>
+    <div class="text-muted mb-3">
+        Đăng bởi @(Model.User?.FullName ?? "Ẩn danh") vào @Model.NgayDang.ToString("dd/MM/yyyy")
+    </div>
+    <p class="lead">@Model.TomTat</p>
+    <div>@Html.Raw(Model.NoiDung)</div>
+</div>
+
+<!-- Phần bình luận -->
+<div class="container pt-5">
+    <h3>Bình luận (@Model.BinhLuanBaiViet.Count())</h3>
+    <hr />
+    @foreach (var binhLuan in Model.BinhLuanBaiViet.OrderByDescending(x => x.NgayDang))
+    {
+        <div class="mb-3 p-3 border rounded shadow-sm">
+            <strong>@binhLuan.User.FullName</strong>
+            <span class="text-muted"> - @binhLuan.NgayDang.ToString("dd/MM/yyyy HH:mm")</span>
+            <div class="mt-2">@binhLuan.NoiDungBinhLuan</div>
+        </div>
+    }
+
+    <!-- Gửi bình luận -->
+    @if (user.Identity.IsAuthenticated)
+    {
+        <form asp-controller="BaiViet" asp-action="DangBinhLuan" method="post" class="mt-4">
+            <input type="hidden" name="baiVietId" value="@Model.Id" />
+            <div class="mb-3">
+                <label for="noiDung" class="form-label">Bình luận của bạn</label>
+                <textarea class="form-control" name="noiDung" rows="4" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Đăng bình luận</button>
+        </form>
+    }
+    else
+    {
+        <div class="alert alert-warning mt-4">
+            Vui lòng <a href="/Account/Login">đăng nhập</a> để viết bình luận.
+        </div>
+    }
+</div>
+
+<!-- Gợi ý bài viết cùng chuyên mục -->
+@if (baiVietCungChuyenMuc?.Any() == true)
+{
+    <div class="container py-5">
+        <h4 class="mb-4">Bài viết cùng chuyên mục</h4>
+        <div class="row">
+            @foreach (var item in baiVietCungChuyenMuc)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="card h-100">
+                        <a asp-controller="BaiViet" asp-action="ChiTiet"
+                           asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau"
+                           asp-route-tieuDe="@item.TieuDeKhongDau">
+                            @{
+                                var imageMatch = Regex.Match(item.NoiDung, "<img.+?src=[\"'](.+?)[\"'].*?>");
+                                string image = imageMatch.Success ? imageMatch.Groups[1].Value : "/img/noimage.png";
+                            }
+                            <img src="@image" class="card-img-top" alt="Ảnh bài viết">
+                        </a>
+                        <div class="card-body">
+                            <h6 class="card-title">
+                                <a asp-controller="BaiViet" asp-action="ChiTiet"
+                                   asp-route-tenChuDe="@item.ChuDe.TenChuDeKhongDau"
+                                   asp-route-tieuDe="@item.TieuDeKhongDau">
+                                    @item.TieuDe
+                                </a>
+                            </h6>
+                            <p class="text-muted">@item.NgayDang.ToString("dd/MM/yyyy")</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}

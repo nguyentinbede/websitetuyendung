@@ -1,0 +1,23 @@
+﻿@model TuyenDungFPT.Models.User
+
+@{
+    ViewData["Title"] = "Xóa người dùng";
+}
+
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+         
+
+            <div class="alert alert-danger" role="alert">
+                <i class="fa-light fa-triangle-exclamation"></i> Bạn có muốn xóa công việc đã yêu thích này không?
+            </div>
+
+            <div class="mb-0">
+                <button type="submit" class="btn btn-danger"><i class="fa-light fa-circle-check"></i> Xác nhận xóa</button> hoặc <a asp-action="Index">Quay về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>

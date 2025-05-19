@@ -1,0 +1,357 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TuyenDungFPT
+build_property.RootNamespace = TuyenDungFPT
+build_property.ProjectDir = D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Tailieuhoc\Thuctapcuoikhoa\TuyenDungFPT\TuyenDungFPT
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BaiViet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFpVmlldFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BaiViet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFpVmlldFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BaiViet/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFpVmlldFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BaiViet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFpVmlldFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BaiViet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFpVmlldFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BinhLuanBaiViet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmluaEx1YW5CYWlWaWV0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BinhLuanBaiViet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmluaEx1YW5CYWlWaWV0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BinhLuanBaiViet/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmluaEx1YW5CYWlWaWV0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BinhLuanBaiViet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmluaEx1YW5CYWlWaWV0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/BinhLuanBaiViet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmluaEx1YW5CYWlWaWV0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/ChuDe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2h1RGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/ChuDe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2h1RGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/ChuDe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2h1RGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/ChuDe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2h1RGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/ChuDe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2h1RGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/JobCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/JobCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/JobCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/JobCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/JobCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Applications/CompanyApplicants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEFwcGxpY2F0aW9uc1xDb21wYW55QXBwbGljYW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Applications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEFwcGxpY2F0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Jobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEpvYnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Jobs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEpvYnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Jobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEpvYnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Jobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEpvYnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Jobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXEpvYnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFVzZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFVzZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Applications/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXEFwcGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Applications/MyApplications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXE15QXBwbGljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/BaiViet/ChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVmlldFxDaGlUaWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/BaiViet/ChuDe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVmlldFxDaHVEZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/BaiViet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVmlldFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Forbidden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JiaWRkZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/GioiThieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaW9pVGhpZXUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/LienHe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaWVuSGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Home/VerifyOTP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJpZnlPVFAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Jobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Jobs/JobType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xKb2JUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Jobs/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xTZWFyY2hSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Jobs/_JobListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xfSm9iTGlzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/SavedJobs/MySavedJobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F2ZWRKb2JzXE15U2F2ZWRKb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Shared/JobType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEpvYlR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Shared/_JobListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Kb2JMaXN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z224klkzxr
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Areas/Recruiter/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVjcnVpdGVyXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bpntbd76u5
+
+[D:/Tailieuhoc/Thuctapcuoikhoa/TuyenDungFPT/TuyenDungFPT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i7wqdyw48r

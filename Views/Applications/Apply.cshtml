@@ -1,0 +1,42 @@
+﻿@model TuyenDungFPT.Models.Application
+@{
+    ViewData["Title"] = "Ứng tuyển công việc";
+    var resumes = ViewBag.Resumes as List<TuyenDungFPT.Models.Resume>;
+    var job = ViewBag.Job as TuyenDungFPT.Models.Job;
+}
+
+<h2 class="mb-4">Ứng tuyển: @job?.Title</h2>
+
+<form asp-action="Apply" method="post">
+    <input type="hidden" asp-for="JobId" />
+
+    @if (resumes != null && resumes.Any())
+    {
+        <div class="mb-3">
+            <label class="form-label fw-bold">Chọn CV để nộp:</label>
+            <div class="row">
+                @for (int i = 0; i < resumes.Count; i++)
+                {
+                    var resume = resumes[i];
+                    <div class="col-md-6 mb-3">
+                        <div class="card p-3">
+                            <input type="radio" id="cv@resume.Id" name="ResumeId" value="@resume.Id" class="form-check-input me-2" required />
+                            <label for="cv@resume.Id" class="form-check-label">@resume.CreatedAt.ToString("dd/MM/yyyy")</label>
+
+                            <div class="mt-2">
+                                <iframe src="@Url.Content("~/uploads/" + resume.FilePath)" width="100%" height="300px" style="border:1px solid #ccc;"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Bạn chưa có CV nào. <a href="/User/Profile">Tải lên CV</a> để tiếp tục ứng tuyển.</p>
+    }
+
+    <button type="submit" class="btn btn-primary">Xác nhận ứng tuyển</button>
+    <a asp-controller="Jobs" asp-action="Details" asp-route-id="@Model.JobId" class="btn btn-secondary ms-2">Quay lại</a>
+</form>

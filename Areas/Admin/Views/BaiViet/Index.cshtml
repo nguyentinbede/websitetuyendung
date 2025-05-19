@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TuyenDungFPT.Models.BaiViet>
+
+@{
+    ViewData["Title"] = "Bài viết";
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <p><a asp-action="Create" class="btn btn-success"><i class="fa-light fa-plus"></i> Thêm mới</a></p>
+        <table class="table table-sm table-hover table-striped table-bordered mb-0">
+            <thead>
+                <tr>
+                    <th width="5%">#</th>
+                    <th width="20%">@Html.DisplayNameFor(model => model.ChuDe.TenChuDe)</th>
+                    <th>Thông tin bài viết</th>
+                    <th width="5%" title="Trạng thái kiểm duyệt">D?</th>
+                    <th width="5%" title="Trạng thái hiển thị">O/F</th>
+                    <th width="5%">Sửa</th>
+                    <th width="5%">Xóa</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var stt = 1;
+                }
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@stt</td>
+                        <td>@Html.DisplayFor(modelItem => item.ChuDe.TenChuDe)</td>
+                        <td>
+                            <span class="fw-bold text-primary">@Html.DisplayFor(modelItem => item.TieuDe)</span>
+                            <span class="small">
+                                <br />Ngày đăng: <strong>@item.NgayDang</strong>
+                                <br />Người đăng: <strong>@item.User.FullName</strong>
+                                <br />Có <strong>@item.LuotXem</strong> lượt xem
+                            </span>
+                        </td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.KiemDuyet)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.HienThi)</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-light fa-pen-to-square"></i></a>
+                        </td>
+                        <td class="text-center">
+                            <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-light fa-trash-can text-danger"></i></a>
+                        </td>
+                    </tr>
+                    stt++;
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

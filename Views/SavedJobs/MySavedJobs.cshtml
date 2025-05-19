@@ -1,0 +1,124 @@
+﻿@model List<TuyenDungFPT.ViewModels.JobViewModel>
+
+@{
+    ViewData["Title"] = "Công việc đã lưu";
+}
+
+<h2 class="mb-4">Danh sách công việc bạn đã lưu</h2>
+
+@if (Model.Any())
+{
+    <div id="job-container">
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            var currentJob = Model[i].Job;
+            var isSaved = Model[i].IsSaved;
+
+            <div class="job-item p-4 mb-4 job-box @(i >= 5 ? "d-none" : "")">
+                <div class="row g-4">
+                    <div class="col-sm-12 col-md-8 d-flex align-items-center">
+                        <img class="flex-shrink-0 img-fluid border rounded"
+                             src="@Url.Content("~/uploads/" + currentJob.Company.Avata)"
+                             alt="Logo công ty"
+                             style="width: 80px; height: 80px;" />
+                        <div class="text-start ps-4">
+                            <h5 class="mb-3">@currentJob.Title</h5>
+                            <span class="text-truncate me-3">
+                                <i class="fa fa-map-marker-alt text-primary me-2"></i>@currentJob.Location
+                            </span>
+                            <span class="text-truncate me-3">
+                                <i class="far fa-clock text-primary me-2"></i>@currentJob.JobType
+                            </span>
+                            <span class="text-truncate me-0">
+                                <i class="far fa-money-bill-alt text-primary me-2"></i>@currentJob.SalaryRange
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                        <div class="d-flex mb-3">
+                            <button class="btn btn-link save-job" data-job-id="@currentJob.Id">
+                                <i class="@(isSaved ? "fa-solid fa-heart text-danger" : "fa-regular fa-heart")"></i>
+                            </button>
+
+                            <a class="btn btn-outline-primary me-2"
+                               asp-controller="Jobs" asp-action="Details" asp-route-id="@currentJob.Id">
+                                Xem chi tiết
+                            </a>
+
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                var appliedJobIds = ViewBag.AppliedJobIds as List<int> ?? new List<int>();
+                                if (appliedJobIds.Contains(currentJob.Id))
+                                {
+                                    <span class="btn btn-outline-secondary disabled">Đã ứng tuyển</span>
+                                }
+                                else
+                                {
+                                    <a asp-controller="Applications" asp-action="Apply" asp-route-jobId="@currentJob.Id"
+                                       class="btn btn-success">Ứng tuyển ngay</a>
+                                }
+                            }
+                            else
+                            {
+                                <a href="/Home/Login" class="btn btn-secondary">Đăng nhập để ứng tuyển</a>
+                            }
+                        </div>
+                        <small class="text-truncate">
+                            <i class="far fa-calendar-alt text-primary me-2"></i>
+                            Đăng lúc: @currentJob.PostedAt.ToString("dd/MM/yyyy")
+                        </small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="text-center mt-4">
+        <button id="loadMoreBtn" class="btn btn-primary">Xem thêm</button>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let visibleJobs = 5;
+            const jobItems = document.querySelectorAll('.job-box');
+            const btn = document.getElementById('loadMoreBtn');
+
+            btn.addEventListener('click', function () {
+                let hidden = 0;
+                for (let i = visibleJobs; i < visibleJobs + 5 && i < jobItems.length; i++) {
+                    jobItems[i].classList.remove("d-none");
+                    hidden++;
+                }
+                visibleJobs += hidden;
+                if (visibleJobs >= jobItems.length) {
+                    btn.style.display = "none";
+                }
+            });
+        });
+
+        $(document).ready(function () {
+            $(".save-job").click(function () {
+                var button = $(this);
+                var jobId = button.data("job-id");
+
+                $.ajax({
+                    url: '/SavedJobs/ToggleSave',
+                    type: 'POST',
+                    data: { jobId: jobId },
+                    success: function (isSaved) {
+                        var icon = button.find("i");
+                        if (isSaved) {
+                            icon.removeClass("fa-regular").addClass("fa-solid text-danger");
+                        } else {
+                            icon.removeClass("fa-solid text-danger").addClass("fa-regular");
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+}
+else
+{
+    <p>Bạn chưa lưu công việc nào.</p>
+}

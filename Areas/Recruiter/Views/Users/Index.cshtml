@@ -1,0 +1,97 @@
+﻿@model IEnumerable<TuyenDungFPT.Models.User>
+
+@{
+    ViewData["Title"] = "Người dùng";
+}
+
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <p><a asp-action="Create" class="btn btn-success"><i class="fa-light fa-plus"></i> Thêm mới</a></p>
+<table class="table">
+    <thead>
+        <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Avata)
+                    </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName_khongdau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PasswordHash)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Role)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Company)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+                @{
+                    var stt = 1;
+                }
+                @foreach (var item in Model)
+                {
+        <tr>
+                        <td class="text-center"><img src="~/uploads/@item.Avata" width="60" class="img-thumbnail" /></td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName_khongdau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PasswordHash)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+                        <td>
+                            @if (item.Role == UserRole.Admin)
+                            {
+                                <span class="badge text-bg-danger">Quản trị viên</span>
+                            }
+                            else if (item.Role == UserRole.Recruiter)
+                            {
+                                <span class="badge text-bg-primary">Nhà tuyển dụng</span>
+                            }
+                            else if (item.Role == UserRole.Applicant)
+                            {
+                                <span class="badge text-bg-secondary">Ứng viên</span>
+                            }
+                        </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company.Name)
+            </td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-light fa-pen-to-square"></i></a>
+                        </td>
+                        <td class="text-center">
+                            <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-light fa-trash-can text-danger"></i></a>
+                        </td>
+        </tr>
+}
+    </tbody>
+</table>

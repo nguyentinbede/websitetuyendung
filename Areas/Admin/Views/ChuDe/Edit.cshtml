@@ -1,0 +1,37 @@
+﻿@model TuyenDungFPT.Models.ChuDe
+
+@{
+    ViewData["Title"] = "Sửa chủ đề";
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label asp-for="TenChuDe" class="control-label"></label>
+                <input asp-for="TenChuDe" class="form-control" />
+                <span asp-validation-for="TenChuDe" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TenChuDeKhongDau" class="control-label"></label>
+                <input asp-for="TenChuDeKhongDau" class="form-control" placeholder="Bỏ trống sẽ tự động xử lý tên không dấu" />
+                <span asp-validation-for="TenChuDeKhongDau" class="text-danger"></span>
+            </div>
+
+            <div class="mb-0">
+                <button type="submit" class="btn btn-primary"><i class="fa-light fa-floppy-disk"></i> Cập nhật</button> hoặc <a asp-action="Index">Quay về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+

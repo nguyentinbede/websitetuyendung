@@ -1,0 +1,809 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TuyenDungFPT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TuyenDungFPT.3c3uybzega.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\css\\theme.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\banner 2 (1).png",
+      "PackagePath": "staticwebassets\\img\\banner 2 (1).png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\bia.png",
+      "PackagePath": "staticwebassets\\img\\bia.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\fpt-tuyen-dung.jpeg",
+      "PackagePath": "staticwebassets\\img\\fpt-tuyen-dung.jpeg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\img\\thumb_20220811020620.jpg",
+      "PackagePath": "staticwebassets\\img\\thumb_20220811020620.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\theme.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\ckeditor5\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\ckeditor5\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\ckeditor.js.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\ckeditor5\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\index.html"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-light-300.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-light-300.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-light-300.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-light-300.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-sharp-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-sharp-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\0af6b84b-d09d-4f5a-84d4-c165b7540bd4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0af6b84b-d09d-4f5a-84d4-c165b7540bd4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\1ad603ca-2cd3-45c5-bb43-214b89276a3d_Logo-FPT-Shop-Black.png",
+      "PackagePath": "staticwebassets\\uploads\\1ad603ca-2cd3-45c5-bb43-214b89276a3d_Logo-FPT-Shop-Black.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\1ce9929e-0683-45de-b9aa-8e6ed9344354.png",
+      "PackagePath": "staticwebassets\\uploads\\1ce9929e-0683-45de-b9aa-8e6ed9344354.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\3be59c65-ec12-4970-9d83-6e63928f5c1c.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3be59c65-ec12-4970-9d83-6e63928f5c1c.pdf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\421ef388-457b-42ba-81cf-501b4cbf7d3c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\421ef388-457b-42ba-81cf-501b4cbf7d3c.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\4d5d66bd-2844-4b45-92d1-26d7811b26bb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4d5d66bd-2844-4b45-92d1-26d7811b26bb.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\7ef7dc58-d011-47b7-a656-eb05f8f4d631_Danh sách liên kết vòng.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7ef7dc58-d011-47b7-a656-eb05f8f4d631_Danh sách liên kết vòng.pdf"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\7f9b564c-ec9d-4954-993d-931e3c51d3cc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7f9b564c-ec9d-4954-993d-931e3c51d3cc.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\9faf6e07-0fd3-4195-a3b5-5172429bf5ee.png",
+      "PackagePath": "staticwebassets\\uploads\\9faf6e07-0fd3-4195-a3b5-5172429bf5ee.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\CCCDm5254s.jpg",
+      "PackagePath": "staticwebassets\\uploads\\CCCDm5254s.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\CCCDmt.jpg",
+      "PackagePath": "staticwebassets\\uploads\\CCCDmt.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\GioiThieu.png",
+      "PackagePath": "staticwebassets\\uploads\\GioiThieu.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\ae7073e8-7299-4af3-8fb8-aebc1689d427_ky-nang.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ae7073e8-7299-4af3-8fb8-aebc1689d427_ky-nang.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\b561772a-2ce4-44e5-994c-b1f4ecbef4dd.png",
+      "PackagePath": "staticwebassets\\uploads\\b561772a-2ce4-44e5-994c-b1f4ecbef4dd.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\c2ea387a-cf1a-439a-9231-6986c28c4609_1.png",
+      "PackagePath": "staticwebassets\\uploads\\c2ea387a-cf1a-439a-9231-6986c28c4609_1.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\c380686f-33cc-481b-8651-d78e990aa44f.png",
+      "PackagePath": "staticwebassets\\uploads\\c380686f-33cc-481b-8651-d78e990aa44f.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\c563bd8b-65b2-4b49-8dcf-7e8388ef8844_GioiThieu.png",
+      "PackagePath": "staticwebassets\\uploads\\c563bd8b-65b2-4b49-8dcf-7e8388ef8844_GioiThieu.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\dd1eee3a-d8d7-4512-a2f3-517bb753b092.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dd1eee3a-d8d7-4512-a2f3-517bb753b092.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\default-avatar.png",
+      "PackagePath": "staticwebassets\\uploads\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\e764a5c8-ec8c-4326-a07a-e63d3c6208c8.png",
+      "PackagePath": "staticwebassets\\uploads\\e764a5c8-ec8c-4326-a07a-e63d3c6208c8.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\eacb81ef-fc47-4502-a7e3-1c592506394c.png",
+      "PackagePath": "staticwebassets\\uploads\\eacb81ef-fc47-4502-a7e3-1c592506394c.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\f2119476-4e3a-464e-8a92-ed8118f61d63.png",
+      "PackagePath": "staticwebassets\\uploads\\f2119476-4e3a-464e-8a92-ed8118f61d63.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\fpt-shop.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fpt-shop.jpg"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\fpt-shop.png",
+      "PackagePath": "staticwebassets\\uploads\\fpt-shop.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\fpt-software.png",
+      "PackagePath": "staticwebassets\\uploads\\fpt-software.png"
+    },
+    {
+      "Id": "D:\\Tailieuhoc\\Thuctapcuoikhoa\\TuyenDungFPT\\TuyenDungFPT\\wwwroot\\uploads\\trung-do-.jpg",
+      "PackagePath": "staticwebassets\\uploads\\trung-do-.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TuyenDungFPT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TuyenDungFPT.props",
+      "PackagePath": "build\\TuyenDungFPT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TuyenDungFPT.props",
+      "PackagePath": "buildMultiTargeting\\TuyenDungFPT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TuyenDungFPT.props",
+      "PackagePath": "buildTransitive\\TuyenDungFPT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

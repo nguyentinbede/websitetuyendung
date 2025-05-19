@@ -1,0 +1,132 @@
+﻿@model List<TuyenDungFPT.ViewModels.JobViewModel>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+@if (Model.Any())
+{
+    <div id="job-container">
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            var currentJob = Model[i];
+
+            <div class="job-item p-4 mb-4 job-box @(i >= 5 ? "d-none" : "")">
+                <div class="row g-4">
+                    <div class="col-sm-12 col-md-8 d-flex align-items-center">
+                        <img class="flex-shrink-0 img-fluid border rounded"
+                             src="@Url.Content("~/uploads/" + currentJob.Job.Company.Avata)"
+                             alt="Logo công ty"
+                             style="width: 80px; height: 80px;" />
+                        <div class="text-start ps-4">
+                            <h5 class="mb-3">@currentJob.Job.Title</h5>
+                            <span class="text-truncate me-3">
+                                <i class="fa fa-map-marker-alt text-primary me-2"></i>@currentJob.Job.Location
+                            </span>
+                            <span class="text-truncate me-3">
+                                <i class="far fa-clock text-primary me-2"></i>@currentJob.Job.JobType
+                            </span>
+                            <span class="text-truncate me-0">
+                                <i class="far fa-money-bill-alt text-primary me-2"></i>@currentJob.Job.SalaryRange
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4 d-flex flex-column align-items-start align-items-md-end justify-content-center">
+                        <div class="d-flex mb-3">
+                            <button class="btn btn-link save-job" data-job-id="@currentJob.Job.Id">
+                                <i class="@(currentJob.IsSaved ? "fa-solid fa-heart text-danger" : "fa-regular fa-heart")"></i>
+                            </button>
+
+                            <a class="btn btn-outline-primary me-2" asp-controller="Jobs" asp-action="Details" asp-route-id="@currentJob.Job.Id">Xem chi tiết</a>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                if (User.IsInRole("Applicant"))
+                                {
+                                    var appliedJobIds = ViewBag.AppliedJobIds as List<int> ?? new List<int>();
+                                    if (appliedJobIds.Contains(currentJob.Job.Id))
+                                    {
+                                        <span class="btn btn-outline-secondary disabled">Đã ứng tuyển</span>
+                                    }
+                                    else
+                                    {
+                                        <a asp-controller="Applications" asp-action="Apply" asp-route-jobId="@currentJob.Job.Id" class="btn btn-success">Ứng tuyển ngay</a>
+                                    }
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Chỉ ứng viên mới có thể ứng tuyển</span>
+                                }
+                            }
+                            else
+                            {
+                                <a href="/Home/Login" class="btn btn-secondary">Đăng nhập để ứng tuyển</a>
+                            }
+                        </div>
+                        <small class="text-truncate">
+                            <i class="far fa-calendar-alt text-primary me-2"></i>
+                            Đăng lúc: @currentJob.Job.PostedAt.ToString("dd/MM/yyyy")
+                        </small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="text-center mt-4">
+        <button id="loadMoreBtn" class="btn btn-primary">Xem thêm</button>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let visibleJobs = 5;
+            const jobItems = document.querySelectorAll('.job-box');
+            const btn = document.getElementById('loadMoreBtn');
+
+            btn.addEventListener('click', function () {
+                let hidden = 0;
+                for (let i = visibleJobs; i < visibleJobs + 5 && i < jobItems.length; i++) {
+                    jobItems[i].classList.remove("d-none");
+                    hidden++;
+                }
+                visibleJobs += hidden;
+                if (visibleJobs >= jobItems.length) {
+                    btn.style.display = "none";
+                }
+            });
+        });
+
+        $(document).ready(function () {
+            // Xử lý nút lưu công việc (trái tim)
+            $(".save-job").click(function () {
+                const button = $(this);
+                const jobId = button.data("job-id");
+
+                // Tránh double click
+                if (button.data("disabled")) return;
+                button.data("disabled", true);
+
+                $.ajax({
+                    url: '/SavedJobs/ToggleSave',
+                    type: 'POST',
+                    data: { jobId: jobId },
+                    success: function (isSaved) {
+                        const icon = button.find("i");
+                        if (isSaved) {
+                            icon.removeClass("fa-regular").addClass("fa-solid text-danger");
+                        } else {
+                            icon.removeClass("fa-solid text-danger").addClass("fa-regular");
+
+                            // Nếu đang ở trang MySavedJobs thì ẩn job
+                            if (window.location.pathname.includes("MySavedJobs")) {
+                                button.closest(".job-item").fadeOut();
+                            }
+                        }
+                    },
+                    complete: function () {
+                        button.data("disabled", false); // Cho click lại
+                    }
+                });
+            });
+        });
+    </script>
+}
+else
+{
+    <p>Không có công việc nào.</p>
+}

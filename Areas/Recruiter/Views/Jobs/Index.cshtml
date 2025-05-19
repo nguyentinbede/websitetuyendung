@@ -1,0 +1,221 @@
+﻿@model IEnumerable<TuyenDungFPT.Models.Job>
+
+@{
+    ViewData["Title"] = "Công việc";
+}
+@section Styles {
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/dataTables.bootstrap5.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.bootstrap5.min.css" />
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <p><a asp-action="Create" class="btn btn-success"><i class="fa-light fa-plus"></i> Thêm mới</a></p>
+            </div>
+            <div class="col-md-6 text-end">
+                <div id="export-buttons"></div>
+            </div>
+        </div>
+        <table id="datatable" class="table table-sm table-hover table-striped table-bordered mb-0">
+    <thead>
+        <tr>
+                    <th width="5%">#</th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Requirements)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SalaryRange)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Company)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobCategory)
+            </th>
+                    <th width="5%">Sửa</th>
+                    <th width="5%">Xóa</th>
+        </tr>
+    </thead>
+</table>
+</div>
+</div>
+@section Scripts {
+    <!-- Load jQuery trước -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- DataTables -->
+    <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.8/js/dataTables.bootstrap5.min.js"></script>
+
+    <!-- DataTables Buttons -->
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var table = $('#datatable').DataTable({
+                language: {
+                    processing: 'Đang xử lý...',
+                    lengthMenu: 'Hiển thị _MENU_ dòng',
+                    zeroRecords: 'Không tìm thấy dòng nào phù hợp',
+                    info: 'Đang xem _START_ đến _END_ trong tổng số _TOTAL_ dòng',
+                    infoEmpty: 'Đang xem 0 đến 0 trong tổng số 0 dòng',
+                    emptyTable: 'Không có dữ liệu',
+                    infoFiltered: '(được lọc từ _MAX_ dòng)',
+                    search: 'Tìm kiếm:',
+                    paginate: {
+                        first: '<i class="fa-duotone fa-arrow-left-to-line"></i>',
+                        last: '<i class="fa-duotone fa-arrow-right-to-line"></i>',
+                        next: '<i class="fa-duotone fa-arrow-right"></i>',
+                        previous: '<i class="fa-duotone fa-arrow-left"></i>'
+                    }
+                },
+                buttons: [
+                    {
+                        extend: 'excelHtml5',
+                        title: null,
+                        filename: 'DanhSachCongViec'
+                    },
+                    {
+                        extend: 'copyHtml5',
+                        title: null
+                    }
+                ],
+        buttons: [{
+        extend: 'excelHtml5',
+        title: null,
+        filename: 'DanhSachjob'
+        }, {
+        extend: 'copyHtml5',
+        title: null
+                }],
+         processing: true,
+         serverSide: true,
+         filter: true, // Hiển thị ô Tìm kiếm
+         orderMulti: false, // Chỉ cho sắp xếp mỗi lần 1 cột
+         ajax: {
+         url: '@Url.Action("Index_LoadData", "Jobs", new { Area = "Recruiter" })', // Hàm lấy dữ liệu Index_LoadData() bên trong jobController
+         type: 'POST',
+         datatype: 'json',
+             dataSrc: function (json) {
+            console.log("Dữ liệu từ server:", json); // 👈 THÊM DÒNG NÀY
+            return json.data;
+        }
+         },
+         columnDefs: [
+         {
+         targets: [1,2,3,4,5,6, 7, 8,9,10],
+        className: 'text-center' // Cột 1 (Hình ảnh), 7 (Sửa), 8 (Xóa) canh giữa
+         },
+         ],
+         columns: [
+         {
+         // Cột 0: STT
+         data: null,
+        name: null,
+        sortable: false, // Không cho sắp xếp
+         render: function (data, type, row, meta) {
+         return meta.row + meta.settings._iDisplayStart + 1;
+         }
+         },
+          //1
+         {
+             data: "title",
+             name: "title"
+         },
+         //2
+         {
+              data: "description",
+             name: "description"
+         },
+         //3
+          {
+             data: "requirements",
+             name: "requirements"
+         },
+         //4
+         {
+              data: "salaryRange",
+             name: "salaryRange"
+         },
+         //5
+         {
+             data: "location",
+             name: "location"
+         },
+         //6
+         {
+              data: "jobType",
+             name: "jobType",
+             render: function (data, type, row) {
+             var jobTypes = ["Full Time", "Part Time", "Internship", "Contract"];
+             return jobTypes[data] || "Unknown"; // Chuyển số sang chuỗi
+        }
+         },
+         //7
+         {
+             data: "postedAt",
+             name: "postedAt"
+         },
+         //8
+         {
+              data: "nameCompany",
+             name: "nameCompany"
+         }, 
+         //9
+         {
+             data: "nameJobCategory",
+             name: "nameJobCategory"
+         },
+         //10
+                                       {
+            // Cột: Sửa
+            data: null,
+            name: null,
+            sortable: false,
+            render: function (data, type, row, meta) {
+                return '<a href="/Recruiter/Jobs/Edit/' + row.id + '"><i class="fa-light fa-pen-to-square"></i></a>';
+            }
+        },
+        {
+            // Cột: Xóa
+            data: null,
+            name: null,
+            sortable: false,
+            render: function (data, type, row, meta) {
+                return '<a href="/Recruiter/Jobs/Delete/' + row.id + '"><i class="fa-light fa-trash-can text-danger"></i></a>';
+            }
+        }
+         ],
+         initComplete: function (settings, json) {
+         table.buttons().container().appendTo('#export-buttons');
+         $('#export-buttons .btn').removeClass('btn-secondary').addClass('btn-info');
+         $('#datatable').wrap('<div class="table-responsive"></div>');
+         }
+            });
+
+            table.buttons().container().appendTo('#export-buttons');
+            $('#export-buttons .btn').removeClass('btn-secondary').addClass('btn-info');
+            $('#datatable').wrap('<div class="table-responsive"></div>');
+        });
+    </script>
+}

@@ -1,0 +1,71 @@
+﻿@model TuyenDungFPT.Models.User
+
+@{
+    ViewData["Title"] = "Thêm người dùng";
+}
+
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CompanyId" class="control-label">Công ty</label>
+                <select asp-for="CompanyId" class="form-control" asp-items="ViewBag.CompanyId">
+                    <option value="">-- Chọn Công ty --</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="FullName" class="control-label"></label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FullName_khongdau" class="control-label"></label>
+                <input asp-for="FullName_khongdau" class="form-control" />
+                <span asp-validation-for="FullName_khongdau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PasswordHash" class="control-label"></label>
+                <input asp-for="PasswordHash" class="form-control" />
+                <span asp-validation-for="PasswordHash" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="XacNhanMatKhau" class="control-label"></label>
+                <input asp-for="XacNhanMatKhau" class="form-control" />
+                <span asp-validation-for="XacNhanMatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="DataAvata" class="control-label"></label>
+                <input asp-for="DataAvata" accept="image/jpeg,image/gif,image/png" class="form-control" />
+                <span asp-validation-for="DataAvata" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Loại công việc:</label>
+                <select asp-for="Role" asp-items="Html.GetEnumSelectList<UserRole>()" class="form-control">
+                    <option value="">-- Chọn quyền--</option>
+                </select>
+            </div>
+            <div class="mb-0">
+            <button type="submit" class="btn btn-primary"><i class="fa-light fa-floppy-disk"></i> Thêm mới</button> hoặc <a asp-action="Index">Quay về danh sách</a>
+    </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

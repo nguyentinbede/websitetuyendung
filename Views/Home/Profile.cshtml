@@ -1,0 +1,97 @@
+﻿@model TuyenDungFPT.ViewModels.ProfileEditViewModel
+@{
+    ViewData["Title"] = "Thông tin cá nhân";
+}
+
+<h2 class="mb-4">Thông tin cá nhân</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<form asp-action="Profile" method="post" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <img src="~/uploads/@(Model.Avata ?? "default-avatar.png")?v=@Guid.NewGuid()" class="img-thumbnail rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;" />
+            <div class="form-group">
+                <label for="DataAvata">Đổi ảnh đại diện</label>
+                <input asp-for="DataAvata" type="file" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="FullName"></label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="FullName_khongdau"></label>
+                <input asp-for="FullName_khongdau" class="form-control" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Phone"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <hr />
+            <h5>Đổi mật khẩu</h5>
+
+            <div class="mb-3">
+                <label asp-for="PasswordHash" class="control-label"></label>
+                <input asp-for="PasswordHash" class="form-control" placeholder="Bỏ trống để giữ nguyên mật khẩu cũ" />
+                <span asp-validation-for="PasswordHash" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="XacNhanMatKhau" class="control-label"></label>
+                <input asp-for="XacNhanMatKhau" class="form-control" placeholder="Bỏ trống để giữ nguyên mật khẩu cũ" />
+                <span asp-validation-for="XacNhanMatKhau" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Lưu thông tin</button>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Applications" asp-action="MyApplications">Danh sách công việc của tôi đã ứng tuyển</a>
+            </li>
+        </div>
+    </div>
+</form>
+
+<hr />
+<h4 class="mt-5">Danh sách CV đã tải lên</h4>
+
+@if (Model.Resumes != null && Model.Resumes.Any())
+{
+    <ul class="list-group mb-3">
+        @foreach (var resume in Model.Resumes)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <a href="~/uploads/@resume.FilePath" target="_blank">@resume.FilePath</a>
+                <form asp-action="DeleteResume" method="post" asp-route-id="@resume.Id" onsubmit="return confirm('Xác nhận xóa CV này?')">
+                    <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                </form>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Chưa có CV nào.</p>
+}
+
+@if (Model.Resumes.Count < 5)
+{
+    <form asp-action="UploadResume" method="post" enctype="multipart/form-data">
+        <div class="form-group mb-3">
+            <label for="DataFilePath">Tải lên CV mới (tối đa 5)</label>
+            <input type="file" name="DataFilePath" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-success">Tải lên CV</button>
+    </form>
+}

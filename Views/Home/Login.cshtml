@@ -1,0 +1,41 @@
+﻿@model TuyenDungFPT.Models.DangNhap
+@{
+    ViewData["Title"] = "Đăng nhập";
+}
+<div class="card">
+    <h5 class="card-header">@ViewData["Title"]</h5>
+    <div class="card-body">
+        @if (TempData["ThongBaoLoi"] != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                <i class="fa-light fa-triangle-exclamation"></i> @TempData["ThongBaoLoi"]
+            </div>
+        }
+        <form asp-action="Login">
+            <input type="hidden" asp-for="LienKetChuyenTrang" value="@ViewBag.LienKetChuyenTrang" />
+            <div class="mb-3">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="PasswordHash" class="control-label"></label>
+                <input asp-for="PasswordHash" class="form-control" />
+                <span asp-validation-for="PasswordHash" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DuyTriDangNhap" /> Duy trì đăng nhập
+                </label>
+            </div>
+            <div class="mb-0">
+                <button type="submit" class="btn btn-primary"><i class="fa-light fa-sign-in-alt"></i> Đăng nhập</button> hoặc <a asp-area="" asp-controller="Home" asp-action="Index">Quay về trang chủ</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

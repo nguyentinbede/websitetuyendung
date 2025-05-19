@@ -1,0 +1,56 @@
+﻿@model TuyenDungFPT.Models.BinhLuanBaiViet
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>BinhLuanBaiViet</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="BaiVietId" class="control-label"></label>
+                <select asp-for="BaiVietId" class="form-control" asp-items="ViewBag.BaiVietId"></select>
+                <span asp-validation-for="BaiVietId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class="form-control" asp-items="ViewBag.UserId"></select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NoiDungBinhLuan" class="control-label"></label>
+                <textarea asp-for="NoiDungBinhLuan" class="form-control"></textarea>
+                <span asp-validation-for="NoiDungBinhLuan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgayDang" class="control-label"></label>
+                <input asp-for="NgayDang" class="form-control" />
+                <span asp-validation-for="NgayDang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LuotXem" class="control-label"></label>
+                <input asp-for="LuotXem" class="form-control" />
+                <span asp-validation-for="LuotXem" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="KiemDuyet" /> @Html.DisplayNameFor(model => model.KiemDuyet)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

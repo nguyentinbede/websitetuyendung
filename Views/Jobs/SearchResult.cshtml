@@ -1,0 +1,50 @@
+﻿@model List<TuyenDungFPT.ViewModels.JobViewModel>
+
+@{
+    var fullTimeJobs = Model.Where(j => j.Job.JobType == JobType.FullTime).ToList();
+    var partTimeJobs = Model.Where(j => j.Job.JobType == JobType.PartTime).ToList();
+    var internshipJobs = Model.Where(j => j.Job.JobType == JobType.Internship).ToList();
+    var contractJobs = Model.Where(j => j.Job.JobType == JobType.Contract).ToList();
+}
+
+<h2 class="text-center mb-4">Kết quả tìm kiếm</h2>
+
+<div class="tab-class text-center wow fadeInUp" data-wow-delay="0.3s">
+    <ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill" href="#tab-full">
+                <h6 class="mt-n1 mb-0">Full Time</h6>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-part">
+                <h6 class="mt-n1 mb-0">Part Time</h6>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-intern">
+                <h6 class="mt-n1 mb-0">Internship</h6>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-contract">
+                <h6 class="mt-n1 mb-0">Contract</h6>
+            </a>
+        </li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="tab-full" class="tab-pane fade show active p-0">
+            @Html.Partial("_JobListPartial", fullTimeJobs)
+        </div>
+        <div id="tab-part" class="tab-pane fade p-0">
+            @Html.Partial("_JobListPartial", partTimeJobs)
+        </div>
+        <div id="tab-intern" class="tab-pane fade p-0">
+            @Html.Partial("_JobListPartial", internshipJobs)
+        </div>
+        <div id="tab-contract" class="tab-pane fade p-0">
+            @Html.Partial("_JobListPartial", contractJobs)
+        </div>
+    </div>
+</div>

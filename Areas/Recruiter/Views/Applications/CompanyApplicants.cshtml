@@ -1,0 +1,30 @@
+﻿@model List<TuyenDungFPT.Models.Application>
+
+<h2>Danh sách ứng viên ứng tuyển vào công ty</h2>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Tên ứng viên</th>
+			<th>Công việc</th>
+			<th>Trạng thái</th>
+			<th>Hành động</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var app in Model)
+		{
+			<tr>
+				<td>@app.User.FullName</td>
+				<td>@app.Job.Title</td>
+				<td>@app.Status</td>
+				<td>
+					<a asp-area="Recruiter" asp-controller="Applications" asp-action="Details" asp-route-id="@app.Id" class="btn btn-primary btn-sm">Xem</a>
+					<form asp-area="Recruiter" asp-controller="Applications" asp-action="Delete" asp-route-id="@app.Id" method="post" style="display:inline;" onsubmit="return confirm('Bạn có chắc muốn xóa đơn ứng tuyển này?');">
+						<button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

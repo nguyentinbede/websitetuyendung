@@ -1,0 +1,52 @@
+﻿@model TuyenDungFPT.Models.Application
+@{
+    ViewData["Title"] = "Chi tiết ứng tuyển";
+}
+
+<h2>Chi tiết ứng tuyển</h2>
+
+<p><strong>Ứng viên:</strong> @Model.User.FullName</p>
+<p><strong>Email:</strong> @Model.User.Email</p>
+<p><strong>Số điện thoại:</strong> @Model.User.Phone</p>
+<p><strong>Công việc:</strong> @Model.Job.Title</p>
+<p><strong>Ngày ứng tuyển:</strong> @Model.AppliedAt.ToString("dd/MM/yyyy")</p>
+<p>
+    <strong>Trạng thái:</strong>
+    @switch (Model.Status)
+    {
+        case ApplicationStatus.Pending:
+            <span class="badge bg-warning text-dark">Chờ duyệt</span>
+            break;
+        case ApplicationStatus.Reviewed:
+            <span class="badge bg-info text-dark">Đã xem</span>
+            break;
+        case ApplicationStatus.Accepted:
+            <span class="badge bg-success">Đã duyệt</span>
+            break;
+        case ApplicationStatus.Rejected:
+            <span class="badge bg-danger">Từ chối</span>
+            break;
+    }
+</p>
+
+@if (!string.IsNullOrEmpty(Model.Resume?.FilePath))
+{
+    var fileUrl = Url.Content("~/uploads/" + Model.Resume.FilePath);
+    <div class="card mt-4 shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <strong>Hồ sơ đính kèm</strong>
+            <a href="@fileUrl" class="btn btn-light btn-sm float-end" download>
+                Tải về <i class="bi bi-download"></i>
+            </a>
+        </div>
+        <div class="card-body p-0" style="height: 500px;">
+            <iframe src="@fileUrl" width="100%" height="100%" style="border: none;"></iframe>
+        </div>
+    </div>
+}
+
+<form method="post" asp-action="UpdateStatus">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" name="status" value="accept" class="btn btn-success mt-3">Duyệt</button>
+    <button type="submit" name="status" value="reject" class="btn btn-danger mt-3">Từ chối</button>
+</form>
